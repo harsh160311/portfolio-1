@@ -1,8 +1,6 @@
 /*
-Template Name: Tunis - Personal Portfolio
-Author: celtano
-Author URI: http://themeforest.net/user/celtano
-Description: Tunis - Personal Portfolio
+Template Name: - Personal Portfolio
+Description: - Personal Portfolio
 Version: 1.0
 */
 
@@ -26,7 +24,6 @@ Version: 1.0
 		+ Portfolio
 		    - Grid
 		    + Slideshow
-                - Embedded Videos
                 - Carousel
                 - Navigation
         + Contact
@@ -499,7 +496,7 @@ body.light hr.separator {
 }
 
 .home .bg {
-  background-image: url(../img/2.jpg);
+  background-image: url(../img/Harsh.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
