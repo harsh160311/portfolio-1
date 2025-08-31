@@ -760,6 +760,16 @@ body.light hr.separator {
 .portfolio .grid li a {
   overflow: hidden;
 }
+/* Add to style.css */
+.portfolio .grid li h2 {
+    font-size: 18px;
+    margin: 10px 0;
+    text-align: center;
+    color: #fff;
+}
+.portfolio .grid li h2 {
+    display: none;
+}
 
 .portfolio .grid li figure div {
   position: absolute;
